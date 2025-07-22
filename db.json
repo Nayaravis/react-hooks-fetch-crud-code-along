@@ -35,6 +35,21 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "id": 7
+    },
+    {
+      "name": "Jessie",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Chocolate",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
